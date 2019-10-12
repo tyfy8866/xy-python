@@ -2,3 +2,4 @@ def main（）:
   print（‘我永远喜欢python’）
 if __name__=='__main__':
 main（）
+尝试修改+1
